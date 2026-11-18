@@ -1,0 +1,21 @@
+
+{
+  "expo": {
+    "name": "PetTrack",
+    "slug": "pettrack",
+    "version": "1.1.1",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "plugins": [
+      "expo-notifications"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#F7F4FC"
+      }
+    }
+  }
+}

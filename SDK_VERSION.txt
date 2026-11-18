@@ -1,0 +1,1 @@
+Expo SDK 58 | expo-notifications ~58.1.9 | React Native 0.88.1 | React 19.3.0
